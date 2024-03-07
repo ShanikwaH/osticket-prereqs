@@ -309,11 +309,6 @@ Select a principal
   
 <p>
 <img src="https://imgur.com/wFr0pkK.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-
-  <h2>Next Steps</h2>
-
-Now that the prerequisites are set up, continue to the second part for configuration.
-[Post-install Configuration](https://github.com/yeahglo/post-install-config)
 </p>
 <p>
   
@@ -330,3 +325,8 @@ Now that the prerequisites are set up, continue to the second part for configura
 <p>
   
   Congrats! You have now successfully installed and setup osTicket!
+
+  <h2>Next Steps</h2>
+
+Now that the prerequisites are set up, continue to the second part for configuration.
+[Post-install Configuration](https://github.com/yeahglo/post-install-config)
