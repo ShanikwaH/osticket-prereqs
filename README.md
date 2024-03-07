@@ -329,4 +329,4 @@ Select a principal
   <h2>Next Steps</h2>
 
 Now that the prerequisites are set up, continue to the second part for configuration.
-[Post-install Configuration](https://github.com/yeahglo/post-install-config)
+[Post-install Configuration](https://github.com/shanikwah/post-install-config)
